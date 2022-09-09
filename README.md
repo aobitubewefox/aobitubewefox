@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aobitubewefox
-- 👀 I’m interested in MLOps and Site Reliability
+- 👀 I’m interested in Site Reliability
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
