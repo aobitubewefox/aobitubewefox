@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @aobitubewefox
-- 👀 I’m interested in Site Reliability
+- 👀 I’m interested in Site Reliability Engineering
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 aobitubewefox/aobitubewefox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
